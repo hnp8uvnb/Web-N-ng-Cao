@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Advance Web Lab\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\GitHub\\Web-N-ng-Cao\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Advance Web Lab\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\GitHub\\Web-N-ng-Cao\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Advance Web Lab\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\GitHub\\Web-N-ng-Cao\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Advance Web Lab\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\GitHub\\Web-N-ng-Cao\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Duy\\.nuget\\packages\\",
-        "outputPath": "C:\\Advance Web Lab\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "C:\\GitHub\\Web-N-ng-Cao\\MvcMovie\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,6 +69,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[8.0.21, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
